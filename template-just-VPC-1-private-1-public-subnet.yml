@@ -33,4 +33,4 @@ Resources:
       MapPublicIpOnLaunch: true
       Tags:
       - Key: Name
-        Value: '10-255-4-0-Priccate-Subnet'
+        Value: '10-255-4-0-Private-Subnet'
